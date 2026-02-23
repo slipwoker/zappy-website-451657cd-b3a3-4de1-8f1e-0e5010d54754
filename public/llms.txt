@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שירות מקצועי מלא להרכבת רהיטים וארונות כולל רכישה, הובלה והתקנה במחיר אחד מוזל. פתרון אקספרס שמגיע עד אליך תוך 3 ימי עסקים ללא טרחה.
+
+### חבילות שירות
+https://example.com/service
+גלה את החבילות המקצועיות שלנו המשלבות רכישת רהיטים, משלוח מהיר והרכבה מומחית בפתרון אחד נוח. חסוך זמן וכסף עם שירות אקספרס תוך 3 ימים.
+
+### מחירים וערך
+https://example.com/pricing
+קבל הצעת מחיר שקופה ומוזלת לשירות מלא של הרכבת רהיטים כולל הובלה והתקנה. ערך אמיתי עם אחריות מקצועית ואספקה תוך 3 ימי עסקים בלבד.
+
+### צור קשר
+https://example.com/contact
+פנה אלינו עכשיו לקבלת ייעוץ והצעת מחיר אישית לשירות הרכבת רהיטים מלא. נחזור אליך במהירות ונדאג לפתרון מושלם תוך 3 ימי עסקים עם מחיר מוזל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - אלדד רם
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אלדד רם
+
+### Category
+https://example.com/category/:slug
+מוצרים - אלדד רם
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
